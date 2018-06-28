@@ -69,33 +69,27 @@ Develop and test a multi-agent simulation tool that
 @ol
 
 - What are agents and how to model them.
-- How is data being communicated among the right nodes?
+- Sharing data among the right nodes.
 - Using graph databases to keep track of agents and their relationships.
 - Bringing everything together with the web application.
-- Simulation outcomes.  
+- Simulation outcomes.
 
 @olend
 
 ---
 
 ## Agent Models
-####
-
----
-
-
----
-
-## Agent Models
 #### Agent Layer
 
----
++++
 
 | What defines an agent? |
 |:---:|
 ![Smart Grid Domain](assets/grid/20180620_NIST_conceptualModel.png)
 
 @size[0.7em](NIST Smart Grid Domains)
+
+
 
 
 ---
