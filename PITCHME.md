@@ -153,7 +153,9 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 `\[
 \frac{dT}{dt} = \frac{-1}{C_{H}} \left( P_{HVAC} + \frac{T_H - T_a}{R_{TH}}\right)
 \]`
-
+`\[
+T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{TH}P_{HVAC} + (T_{H_{i-1}} - T_a)\right) d\tau
+\]`
 ![Thermal Model](assets/design/20180627_thermal_circuit_s.png)
 
 
