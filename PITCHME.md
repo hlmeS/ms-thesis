@@ -64,7 +64,18 @@ Develop and test a multi-agent simulation tool that
 
 +++
 
-## Pre
+#### Presentation Outline
+
+@ol
+
+- What are agents and how to model them.
+- How is data being communicated among the right nodes?
+- Using graph databases to keep track of agents and their relationships.
+- Bringing everything together with the web application.
+- Simulation outcomes.  
+
+@olend
+
 ---
 
 ## Agent Models
