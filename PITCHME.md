@@ -30,7 +30,7 @@
 |:---:|
 ![The future grid](assets/grid/heco_newGrid.png)
 |:---:|
-| # @size[0.7em](HECO Grid Modernization Plan) |
+| @size[0.7em](HECO Grid Modernization Plan) |
 ---
 
 ## The @color[red](engineering design) process!
