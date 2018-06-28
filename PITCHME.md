@@ -104,24 +104,13 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 ![House Model]()
 
 +++
-
-| Fixed Load |
-|:---:|
-
-
-+++
-
-| Variable HVAC LOAD |
-|:---:|
-
-
 @title[Piecemeal Tables]
-
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Appliance</th>
+    <th>Controllability</th>
+    <th>Power</th>
+    <th>SC
   </tr>
   <tr>
     <td>Jill</td>
@@ -139,6 +128,22 @@ The @color[orange](simulation goal) is to model residential energy usage based o
     <td>43</td>
   </tr>
 </table>
+
++++
+
+| Fixed Load |
+|:---:|
+
+
++++
+
+| Variable HVAC LOAD |
+|:---:|
+
+
+
+
+
 
 
 
