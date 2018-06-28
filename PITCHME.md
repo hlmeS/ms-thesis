@@ -3,14 +3,15 @@
 
 #### Holm Smidt
 ---
-#### Digitalization
 
+| Digitalization |
+|:---:|
 ![Data is the new oil](assets/intro/data_oil.png)
 
 +++
 
-#### Machine Learning
-
+| Machine Learning |
+|:---:|
 ![AI is the new electricity](assets/intro/ngAI.png)
 
 
@@ -35,8 +36,8 @@
 
 ---
 
-#### We can @size[1.3em](@color[orange](design models)) and run @size[1.3em](@color[orange](simulations))
-
+| We can @size[1.3em](@color[orange](design models)) and run @size[1.3em](@color[orange](simulations)) |
+|:---:|
 ![VW testing scandal](assets/intro/vw_test.jpg)
 
 
@@ -61,8 +62,23 @@ Develop and test a multi-agent simulation tool that
 
 @size[0.7em](System services structured into the three implementation layers)
 
-
 +++
+
+## Pre
+---
+
+## Agent Models
+####
+
+---
+
+
+---
+
+## Agent Models
+#### Agent Layer
+
+---
 
 | What defines an agent? |
 |:---:|
@@ -72,6 +88,27 @@ Develop and test a multi-agent simulation tool that
 
 
 ---
+
+## Publish/Subscribe Messaging
+#### Communication Layer
+
+---
+
+## Graph Databases for System Modelling
+#### Administration Layer
+
+---
+
+## Web Application For Administration
+#### Administration Layer
+
+---
+
+## Simulation Platform Evaluation
+#### Results
+
+---
+
 
 ## Use Case
 
