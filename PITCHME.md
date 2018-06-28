@@ -98,12 +98,8 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 
 +++
 
-| House Model |
+| House Appliances |
 |:---:|
-
-![House Model]()
-
-+++
 
 @title[Appliance Tables]
 <table>
