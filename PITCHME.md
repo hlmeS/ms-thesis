@@ -21,14 +21,14 @@
 
 +++
 
-| The status quo is what we know well. |
-|:---:|
+#### The status quo is what we know well.
+
 ![The current grid](assets/grid/oldGrid_2.jpg)
 
 +++
 
-| How do we do what's new? |
-|:---:|
+#### How do we do what's new?
+
 ![The future grid](assets/grid/heco_newGrid.png)
 
  @size[0.5em](HECO Grid Modernization Plan)
@@ -36,8 +36,8 @@
 
 ---
 
-| We can @size[1.3em](@color[orange](design models)) and run @size[1.3em](@color[orange](simulations)) |
-|:---:|
+#### We can @size[1.3em](@color[orange](design models)) and run @size[1.3em](@color[orange](simulations))
+
 ![VW testing scandal](assets/intro/vw_test.jpg)
 
 
@@ -56,8 +56,8 @@ Develop and test a multi-agent simulation tool that
 
 +++
 
-| System Architecture - Overview |
-|:---:|
+#### System Architecture - Overview
+
 ![System architecture](assets/design/20180621_sys_architecture.png)
 
 @size[0.7em](System services structured into the three implementation layers)
@@ -83,16 +83,15 @@ Develop and test a multi-agent simulation tool that
 
 +++
 
-| What defines an agent? |
-|:---:|
+#### What defines an agent?
+
 ![Smart Grid Domain](assets/grid/20180620_NIST_conceptualModel.png)
 
 @size[0.7em](NIST Smart Grid Domains)
 
 +++
 
-| Use Case: Residential Demand Management & Response |
-|:---:|
+#### Use Case: Residential Demand Management & Response
 
 The @color[orange](simulation goal) is to model residential energy usage based on individual appliances and then control the appliances in the case of a @color[orange](direct load control (DLC) event).
 
