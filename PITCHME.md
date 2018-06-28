@@ -151,10 +151,9 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 
 ## Thermal model
 
-| ![Thermal Model](assets/design/20180627_thermal_circuit.png) | \begin{equation}\label{eq: thermal-model}
-  \frac{dT}{dt} = \frac{-1}{C_{H}} \left( P_{HVAC} + \frac{T_H - T_a}{R_{TH}}\right)
-\end{equation} |
+| ![Thermal Model](assets/design/20180627_thermal_circuit.png) | $$\frac{dT}{dt} = \frac{-1}{C_{H}} \left( P_{HVAC} + \frac{T_H - T_a}{R_{TH}}\right)$$ |
 |:---:|:---:|
+
 +++
 
 | Variable HVAC LOAD |
