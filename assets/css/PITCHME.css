@@ -18,3 +18,11 @@
 .reveal li {
   text-align: left;
 }
+
+.reveal table td{
+  font-size: 60%;
+}
+
+.reveal table th{
+  font-size: 70%;
+}
