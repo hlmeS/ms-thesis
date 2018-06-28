@@ -14,28 +14,28 @@
 ![AI is the new electricity](assets/intro/ngAI.png)
 
 
----
++++
 
-#### GRID TRANSFORMATION
+#### What about the energy grid?
 
++++
+
+| The status quo is what we know well. |
+|:---:|
 ![The current grid](assets/grid/oldGrid_2.jpg)
 
 +++
 
-#### GRID TRANSFORMATION
-
+| How do we do what's new? |
+|:---:|
 ![The future grid](assets/grid/heco_newGrid.png)
 
+---
 
-+++
+#### The engineering design process!
 
-#### GRID TRANSFORMATION
+---
 
-+++
-
-|Schematic view of dynamic system |
-|:---:|
-| ![Test environments](assets/intro/vw_test.jpg) |
 
 
 ---
