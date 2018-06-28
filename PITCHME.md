@@ -7,11 +7,30 @@
 
 ![Data is the new oil](assets/intro/data_oil.png)
 
----
++++
+
+#### Machine Learning
 
 ![AI is the new electricity](assets/intro/ngAI.png)
 
----
++++
+
+#### GRID TRANSFORMATION
+
+![The current grid](assets/grid/oldGrid_2.jpg)
+
++++
+
+#### GRID TRANSFORMATION
+
+![The future grid](assets/grid/heco.newGrid.png)
+
++++
+
+#### GRID TRANSFORMATION
+
++++
+
 
 ![Test environments](assets/intro/vw_test.jpg)
 ---
