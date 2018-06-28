@@ -205,16 +205,16 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 @ul
 - A home with `devid='dev_34'` is assigned to a DRA with `aggid='agg_1'`.
 - The home is reporting an availability of 1 kW of load to shed by publishing to the `drna/agg_1/dev_34` topic
-- The home is subscribed to the `set/drmode/dev_34` and `drnc/agg_1/dev_34` topic
+- The home is subscribed to the `set/drmode/dev_34` and `drnc/agg_1/dev_34` topics
 - The iso is subscibed to the `drsim/events` topic
 @ulend
 +++
 
-#### In the case of a DLC event: 
+#### In the case of a DLC event:
 @ul
 - The user chooses to curtail 100 kW of load immediately, which the web application therefore publishes to `drsim/events` with a payload of `{"type": "DLC", "amount": 100, "minutes": 10}`
 - The iso receives this, and publishes `{"type": "DLC", "amount": 1, "minutes": 10}` to the `drnc/agg_1/dev_34` topic
-- The home receives this, sheds it's load, and at the next time interval reports zero availability
+- The home receives this, sheds its load, and at the next time interval reports zero availability.
 @ulend
 +++
 
