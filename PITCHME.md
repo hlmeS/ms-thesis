@@ -209,6 +209,26 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 ## Graph Databases for System Modelling
 #### Administration Layer
 
++++
+
+#### Cyber-Physical System Modeling
+
+![Property Graph](assets/design/20180608_PropertyGraph.png)
+
++++
+
+#### Implementation
+
+![Overview](assets/design/20180623_cps_overview_s.png)
+
++++
+
+![Node Level](assets/design/20180623_cps_hems_v2.png)
+
++++
+
+
+
 ---
 
 ## Web Application For Administration
