@@ -1,0 +1,20 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal p {
+  font-size: 36px;
+}
+
+.reveal ul {
+  font-size: 34px;
+}
+
+.reveal ol {
+  font-size: 34px;
+}
+
+.reveal li {
+  text-align: center;
+}
