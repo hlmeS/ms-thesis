@@ -105,37 +105,37 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 <table>
   <tr>
     <th>Appliance</th>
-    <th>Controllability</th>
+    <th>Controls</th>
     <th>Power</th>
     <th>Schedule </th>
   </tr>
   <tr>
     <td>Lights</td>
-    <td>fixed schedule </td>
+    <td>fixed</td>
     <td>360 W</td>
     <td>5-8am, 6-11pm</td>
   </tr>
   <tr class="fragment">
     <td>Refrigerator</td>
-    <td>fixed schedule </td>
+    <td>fixed</td>
     <td>200 W</td>
     <td>12-1am, 5-6am, 8-9am, 11- 12pm, 3-4pm, 7-8pm </td>
   </tr>
   <tr class="fragment">
     <td>Entertainment (TV)</td>
-    <td>fixed schedule </td>
+    <td>fixed</td>
     <td>200 W</td>
     <td>5-10pm</td>
   </tr>
   <tr class="fragment">
     <td>Range/Oven</td>
-    <td>fixed schedule </td>
+    <td>fixed </td>
     <td>3500 W</td>
     <td>11-12pm, 6-7pm</td>
   </tr>
   <tr class="fragment">
     <td>HVAC</td>
-    <td>schedule + variable </td>
+    <td>variable </td>
     <td>3500 W</td>
     <td>12am-3am, 10-2pm, 5-11pm</td>
   </tr>
@@ -149,9 +149,10 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 
 +++
 
-| Fixed Load |
+| Fixed Load Power Draw |
 |:---:|
 
+- Let \(
 
 +++
 
