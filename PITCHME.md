@@ -48,17 +48,21 @@ Develop and test a multi-agent simulation tool that
 
 - models @color[green](agent-level behavior) and packages it as easy-to-deploy applications;
 - enables lighweight @color[orange](communication) among (virtually) resource constrained devices;
-- provides @color[pink](administrative) monitoring, control, and management
+- provides @color[red](administrative) monitoring, control, and management
 
 @ulend
 
++++
 
----
-## Motivation
+#### System Architecture - Overview
 
-Can we modernize the grid without reinventing the wheel?
 
-How can we take advantage of existing technologies and known computational methods to increase efficiency and renewable integration?
+![System architecture](assets/design/20180615_simOverview.png)
+|:---:|
+| @size[0.8em](System services structured into the three implementation layers.)  |
+
+
+
 
 
 ---
