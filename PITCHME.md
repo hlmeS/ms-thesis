@@ -1,6 +1,7 @@
-## Network Coordinated Evolution
-#### Modeling and Control of Distributed System through Online Genetic Search Optimization
+#### M.S. Thesis Defense
+## Multi-Agent Simulation Tool for the Modern Grid
 
+#### Holm Smidt
 ---
 
 ## Motivation
