@@ -102,7 +102,7 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 |:---:|
 
 @title[Appliance Tables]
-@size[0.6em](
+
 <table>
   <tr>
     <th>Appliance</th>
@@ -146,7 +146,7 @@ The @color[orange](simulation goal) is to model residential energy usage based o
     <td>250 W$^*$ </td>
     <td>N/A</td>
   </tr>
-</table>)
+</table>
 
 +++
 
