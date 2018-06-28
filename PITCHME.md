@@ -29,19 +29,16 @@
 | How do we do what's new? |
 |:---:|
 ![The future grid](assets/grid/heco_newGrid.png)
+
 |:---:|
-| @size[0.7em](HECO Grid Modernization Plan) |
+| @size[0.5em](HECO Grid Modernization Plan) |
 ---
 
-@ul
+#### We rely on @size=[1.5em](@color[orange](simulations))
 
-- Observe behaviors. 
-- Rich **markdown** list *item*
-- Model the behavior.
-- Simulate the model.
-- Test the model.
+![The future grid](assets/grid/vw_test.jpg)
 
-@ulend
+
 ---
 
 
