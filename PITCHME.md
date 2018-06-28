@@ -4,10 +4,10 @@
 #### Holm Smidt
 ---
 
-![Data is the new oil](https://raw.githubusercontent.com/hlmes/ec/master/ms-thesis/assets/intro/data_oil.png)
+![Data is the new oil](assets/intro/data_oil.png)
 
 ---
-![Test environments](https://raw.githubusercontent.com/hlmes/ec/master/ms-thesis/assets/intro/vw_test.jpg)
+![Test environments](assets/intro/vw_test.jpg)
 ---
 ## Motivation
 
