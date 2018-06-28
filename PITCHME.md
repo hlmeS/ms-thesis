@@ -56,7 +56,7 @@ Develop and test a multi-agent simulation tool that
 
 | System Architecture - Overview |
 |:---:|
-| ![System architecture](assets/design/20180621_sys_architecture.png) |
+![System architecture](assets/design/20180621_sys_architecture.png) 
 @size[0.7em](System services structured into the three implementation layers)
 
 
