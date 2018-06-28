@@ -34,7 +34,7 @@
 
 ---
 
-#### We use @size[1.3em](@color[orange](modeling) and @size[1.3em](@color[orange](simulation) techniques.)
+#### We can @size[1.3em](@color[orange](build models) and run @size[1.3em](@color[orange](simulations)).
 
 ![VW testing scandal](assets/intro/vw_test.jpg)
 
