@@ -23,7 +23,7 @@
 
 #### GRID TRANSFORMATION
 
-![The future grid](assets/grid/heco.newGrid.png)
+![The future grid](assets/grid/heco_newGrid.png)
 
 +++
 
