@@ -1,9 +1,14 @@
 #### M.S. Thesis Defense
-## Multi-Agent Simulation Tool for the Modern Grid
+## A Multi-Agent Simulation Tool for the Modern Grid
 
 #### Holm Smidt
 ---
 
+![Data is the new oil](https://raw.githubusercontent.com/hlmes/ec/master/ms-thesis/assets/intro/data_oil.png)
+
+---
+![Test environments](https://raw.githubusercontent.com/hlmes/ec/master/ms-thesis/assets/intro/vw_test.jpg)
+---
 ## Motivation
 
 Can we modernize the grid without reinventing the wheel?
