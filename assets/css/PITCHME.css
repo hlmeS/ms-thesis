@@ -19,10 +19,12 @@
   text-align: left;
 }
 
-.reveal table td{
+
+
+.appliance table td{
   font-size: 60%;
 }
 
-.reveal table th{
+.appliance table th{
   font-size: 70%;
 }
