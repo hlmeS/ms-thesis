@@ -61,6 +61,13 @@ Develop and test a multi-agent simulation tool that
 |:---:|
 | @size[0.8em](System services structured into the three implementation layers.)  |
 
++++
+
+#### What defines an agent? 
+
+![Smart Grid Domain](assets/design/20180615_simOverview.png)
+|:---:|
+| @size[0.8em](NIST Smart Grid Domains.)  |
 
 
 
