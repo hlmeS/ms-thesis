@@ -294,8 +294,23 @@ Demo
 
 ![Histogram](assets/design/20180625_output_delay_manual_2.png)
 
++++
 
+## Power and Price Input
 
+![input](assets/design/20180623_inputData_3stacked.png)
+
+## Power Output (Device Level)
+
+![input](assets/design/20180627_powerDevOneDay.png)
+
+## Energy Output (Aggregate Level)
+
+![input](assets/design/20180627_energyAggOneDay.png)
+
+## Variable Pricing Output (Aggregate Level)
+
+![input](assets/design/20180627_billingPriceAggOneDay.png)
 ---
 
 ## Conclusion
