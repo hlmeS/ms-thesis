@@ -29,12 +29,12 @@
 | How do we do what's new? |
 |:---:|
 ![The future grid](assets/grid/heco_newGrid.png)
-
-|:---:|
 | @size[0.5em](HECO Grid Modernization Plan) |
+
+
 ---
 
-####  @size[1.3em](@color[magenta](simulations) help us understand and evaulate candidate solutions. )
+#### We design @size[1.3em](@color[orange](models\) and @size[1.3em](@color[orange](simulations)) 
 
 ![VW testing scandal](assets/intro/vw_test.jpg)
 
