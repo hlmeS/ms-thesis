@@ -13,7 +13,8 @@
 
 ![AI is the new electricity](assets/intro/ngAI.png)
 
-+++
+
+---
 
 #### GRID TRANSFORMATION
 
@@ -25,14 +26,18 @@
 
 ![The future grid](assets/grid/heco_newGrid.png)
 
+
 +++
 
 #### GRID TRANSFORMATION
 
 +++
 
+|Schematic view of dynamic system |
+|:---:|
+| ![Test environments](assets/intro/vw_test.jpg) |
 
-![Test environments](assets/intro/vw_test.jpg)
+
 ---
 ## Motivation
 
