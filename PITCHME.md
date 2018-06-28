@@ -4,14 +4,14 @@
 #### Holm Smidt
 ---
 
-| Digitalization |
-|:---:|
+#### Digitalization
+
 ![Data is the new oil](assets/intro/data_oil.png)
 
 +++
 
-| Machine Learning |
-|:---:|
+#### Machine Learning
+
 ![AI is the new electricity](assets/intro/ngAI.png)
 
 
