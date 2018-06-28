@@ -41,8 +41,16 @@
 
 +++
 
-#### Objective:
+#### Objectives:
 
+Develop and test a multi-agent simulation tool that
+@ul
+
+- models agent level behavior and packages it as easy-to-deploy applications;
+- enables lighweight communication between (virtually) resource constrained devices;
+- enables administration level monitoring, control, and management
+
+@ulend
 
 
 ---
