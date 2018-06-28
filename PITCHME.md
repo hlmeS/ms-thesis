@@ -104,28 +104,50 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 ![House Model]()
 
 +++
-@title[Piecemeal Tables]
+
+@title[Appliance Tables]
 <table>
   <tr>
     <th>Appliance</th>
     <th>Controllability</th>
     <th>Power</th>
-    <th>SC
+    <th>Schedule </th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>25</td>
+    <td>Lights</td>
+    <td>fixed schedule </td>
+    <td>360 W</td>
+    <td>5-8am, 6-11pm</td>
   </tr>
   <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Refrigerator</td>
+    <td>fixed schedule </td>
+    <td>200 W</td>
+    <td>12-1am, 5-6am, 8-9am, 11- 12pm, 3-4pm, 7-8pm </td>
   </tr>
   <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>43</td>
+    <td>Entertainment (TV)</td>
+    <td>fixed schedule </td>
+    <td>200 W</td>
+    <td>5-10pm</td>
+  </tr>
+  <tr class="fragment">
+    <td>Range/Oven</td>
+    <td>fixed schedule </td>
+    <td>3500 W</td>
+    <td>11-12pm, 6-7pm</td>
+  </tr>
+  <tr class="fragment">
+    <td>HVAC</td>
+    <td>schedule + variable </td>
+    <td>3500 W</td>
+    <td>12am-3am, 10-2pm, 5-11pm</td>
+  </tr>
+  <tr class="fragment">
+    <td>Baseload</td>
+    <td>fixed schedule </td>
+    <td>250 W$^*$ </td>
+    <td>N/A</td>
   </tr>
 </table>
 
