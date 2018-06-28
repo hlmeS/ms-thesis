@@ -161,9 +161,13 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 
 +++
 
-| Variable HVAC LOAD |
-|:---:|
+#### PI Controls
 
+- control the HVAC output when the system is running
+
+`\[
+ c(t) = K_p  e(t) + K_i  \int_0^t e(\tau) d\tau  
+\]`
 
 
 
