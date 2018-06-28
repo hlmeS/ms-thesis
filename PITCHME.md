@@ -33,7 +33,7 @@
 | # @size[0.7em](HECO Grid Modernization Plan) |
 ---
 
-#### The @color[red](engineering design) process!
+## The @color[red](engineering design) process!
 
 ---
 
