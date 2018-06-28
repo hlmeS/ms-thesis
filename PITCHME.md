@@ -56,7 +56,7 @@ Develop and test a multi-agent simulation tool that
 
 #### System Architecture - Overview
 
-
+![System architecture](assets/design/20180621_sys_architecture.png)
 |![System architecture](assets/design/20180621_sys_architecture.png)|
 |:---:|
 | @size[0.8em](System services structured into the three implementation layers.) |
@@ -69,8 +69,6 @@ Develop and test a multi-agent simulation tool that
 |![Smart Grid Domain](assets/grid/20180620_NIST_conceptualModel.png)|
 |:---:|
 | @size[0.8em](NIST Smart Grid Domains.) |
-
-
 
 
 ---
