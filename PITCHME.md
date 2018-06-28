@@ -93,7 +93,7 @@ Develop and test a multi-agent simulation tool that
 
 #### Use Case: Residential Demand Management & Response
 
-The @color[orange](simulation goal) is to model residential energy usage based on individual appliances and then control the appliances in the case of a @color[orange](direct load control (DLC) event).
+The @color[orange](simulation goal) is to model residential energy usage based on individual appliances and then control the appliances in the case of a @color[orange](direct load control) (DLC) event.
 
 +++
 
@@ -103,10 +103,11 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 - Python application
 - Runs in real-time
 - Publishes @color[orange](energy usage) and @color[orange](demand response availability) every 5 minutes
-- Subscribes to control settings
-- Turns appliances on/off based on a predefined schedule
-- Controls the temperature of the house
-@endul
+- Subscribes to @color[orange]control settings
+- @color[orange](Turns appliances on/off) based on a predefined schedule
+- @color[orange](Controls the temperature) of the house
+
+@ulend
 
 +++
 
@@ -185,6 +186,23 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 
 ## Publish/Subscribe Messaging
 #### Communication Layer
+
++++
+
+## Publish / Subscribe Concept
+
+![Pub/Sub Concept ](assets/design/20180616_aws_pub:sub.png)
+
++++
+
+## MQTT API Design
+
+![Pub/Sub Concept ](assets/design/mqttTopics.png)
+
++++
+
+![System architecture](assets/design/20180621_sys_architecture.png)
+
 
 ---
 
