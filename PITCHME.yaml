@@ -7,4 +7,4 @@ highlight : atom-one-dark
 mathjax : TeX-AMS_HTML-full
 charts : true
 slide-number: true
-footnote : "<a style='text-decoration:none; color: white;' href='#/2'>Presentation Menu</a>"
+#footnote : ""

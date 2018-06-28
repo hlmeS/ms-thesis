@@ -29,7 +29,8 @@
 | How do we do what's new? |
 |:---:|
 ![The future grid](assets/grid/heco_newGrid.png)
-
+|:---:|
+| # @size[0.7em](HECO Grid Modernization Plan) |
 ---
 
 #### The engineering design process!
