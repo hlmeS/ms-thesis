@@ -298,29 +298,39 @@ Demo
 
 #### Power and Price Input
 
-![input](assets/design/20180623_inputData_3stacked.png)
+![input](assets/results/20180623_inputData_3stacked.png)
 
 +++
 
 #### Power Output (Device Level)
 
-![input](assets/design/20180627_powerDevOneDay.png)
+![input](assets/results/20180627_powerDevOneDay.png)
 
 +++
 
 #### Energy Output (Aggregate Level)
 
-![input](assets/design/20180627_energyAggOneDay.png)
+![input](assets/results/20180627_energyAggOneDay.png)
 
 +++
 
 #### Variable Pricing Output (Aggregate Level)
 
-![input](assets/design/20180627_billingPriceAggOneDay.png)
+![input](assets/results/20180627_billingPriceAggOneDay.png)
 
 ---
 
 ## Conclusion
+
++++
+
+![System architecture](assets/design/20180621_sys_architecture.png)
+
++++
+
+#### Process Model as a reference
+![System architecture](assets/design/20180615_preSim_Model.png)
+
 
 ---
 
