@@ -4,7 +4,7 @@ theme-override : assets/css/PITCHME.css
 #background-size : cover
 logo : assets/REDlab-logo.jpg
 highlight : atom-one-dark
-mathjax : TeX-AMS_HTML-full
+mathjax : TeX-MML-AM_HTMLorMML-full
 charts : true
 slide-number: true
 #footnote : ""
