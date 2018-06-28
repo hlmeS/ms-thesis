@@ -98,9 +98,18 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 
 +++
 
-#### House Appliances
+#### House application
 
-@title[Appliance Tables]
+@ul
+- Python application
+- Runs in real-time
+- Publishes @color[orange](energy usage) and @color[orange](demand response availability) every 5 minutes
+- Subscribes to control settings
+- Turns appliances on/off based on a predefined schedule
+- Controls the temperature of the house 
+@endul
+
++++
 
 <table>
   <tr>
@@ -166,11 +175,8 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 - control the HVAC output when the system is running
 
 `\[
- c(t) = K_p  e(t) + K_i  \int_0^t e(\tau) d\tau  
+ c(t) = K_p  e(t) + K_i  \int_0^t e(\tau) d\tau
 \]`
-
-
-
 
 
 
