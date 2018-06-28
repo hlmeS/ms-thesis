@@ -3,7 +3,7 @@
 
 #### Holm Smidt
 ---
-
+### Megatrend Digitalization 
 ![Data is the new oil](assets/intro/data_oil.png)
 
 ---
