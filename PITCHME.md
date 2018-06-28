@@ -89,6 +89,56 @@ Develop and test a multi-agent simulation tool that
 
 @size[0.7em](NIST Smart Grid Domains)
 
++++
+
+| Use Case: Residential Demand Management & Response |
+|:---:|
+
+The @color[orange](simulation goal) is to model residential energy usage based on individual appliances and then control the appliances in the case of a @color[orange](direct load control (DLC) event).
+
++++
+
+| House Model |
+|:---:|
+
+![House Model]()
+
++++
+
+| Fixed Load |
+|:---:|
+
+
++++
+
+| Variable HVAC LOAD |
+|:---:|
+
+
+@title[Piecemeal Tables]
+
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>25</td>
+  </tr>
+  <tr class="fragment">
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr class="fragment">
+    <td>John</td>
+    <td>Doe</td>
+    <td>43</td>
+  </tr>
+</table>
 
 
 
