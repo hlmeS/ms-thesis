@@ -248,7 +248,7 @@ T_{H_i} = T_{H_{i-1}} - \frac{1}{ R_{TH} C_{H}} \int_{t_{i-1}}^{t_i} \left( R_{T
 
 ---
 
-## Web Application For Administration
+## Web Application 
 #### Administration Layer
 Demo
 ---
