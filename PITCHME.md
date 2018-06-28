@@ -34,12 +34,14 @@
 
 ---
 
-#### We use @size[1.3em](@color[orange](modeling) and @size[1.3em](@color[orange](simulation) techniques.) 
+#### We use @size[1.3em](@color[orange](modeling) and @size[1.3em](@color[orange](simulation) techniques.)
 
 ![VW testing scandal](assets/intro/vw_test.jpg)
 
 
----
++++
+
+#### Objective:
 
 
 
