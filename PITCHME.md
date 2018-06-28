@@ -3,10 +3,16 @@
 
 #### Holm Smidt
 ---
-### Megatrend Digitalization 
+#### Digitalization
+
 ![Data is the new oil](assets/intro/data_oil.png)
 
 ---
+
+![AI is the new electricity](assets/intro/ngAI.png)
+
+---
+
 ![Test environments](assets/intro/vw_test.jpg)
 ---
 ## Motivation
