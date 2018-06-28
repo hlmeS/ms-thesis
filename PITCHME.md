@@ -104,8 +104,8 @@ The @color[orange](simulation goal) is to model residential energy usage based o
 - Runs in real-time
 - Publishes @color[orange](energy usage) and @color[orange](demand response availability) every 5 minutes
 - Subscribes to @color[orange]control settings
-- @color[orange](Turns appliances on/off) based on a predefined schedule
-- @color[orange](Controls the temperature) of the house
+- @color[green](Turns appliances on/off) based on a predefined schedule
+- @color[green](Controls the temperature) of the house
 
 @ulend
 
