@@ -34,9 +34,9 @@
 | @size[0.5em](HECO Grid Modernization Plan) |
 ---
 
-#### We rely on @size=[1.5em](@color[orange](simulations))
+#### We rely on @size[1.5em](@color[orange](simulations))
 
-![The future grid](assets/grid/vw_test.jpg)
+![VW testing scandal](assets/intro/vw_test.jpg)
 
 
 ---
