@@ -67,7 +67,7 @@ Develop and test a multi-agent simulation tool that
 | What defines an agent? |
 |:---:|
 ![Smart Grid Domain](
----?image=assets/grid/20180620_NIST_conceptualModel.png&position=center&size=60*% )
+---?image=assets/grid/20180620_NIST_conceptualModel.png&position=center&size=60*% 
 
 @size[0.7em](NIST Smart Grid Domains)
 
