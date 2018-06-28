@@ -33,8 +33,15 @@
 | @size[0.7em](HECO Grid Modernization Plan) |
 ---
 
-## The @color[red](engineering design) process!
+@ul
 
+- Observe behaviors. 
+- Rich **markdown** list *item*
+- Model the behavior.
+- Simulate the model.
+- Test the model.
+
+@ulend
 ---
 
 
